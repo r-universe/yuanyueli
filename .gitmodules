@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "msentropy"]
+	path = msentropy
+	url = https://github.com/cran/msentropy
+	shallow = true
+	registered = true
